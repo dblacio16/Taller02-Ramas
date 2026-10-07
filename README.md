@@ -9,21 +9,21 @@
 
 ## Lider 
 ### Cambio en el codigo y terminal
-![Evidencia Lider](evidencias/Cambiolider.png)
+![Evidencia Lider](Evidencias/Cambiolider.png)
 
 ### Merge conflicto
-![Evidencia Lider](evidencias/Resolucion.png)
+![Evidencia Lider](Evidencias/Resolucion.png)
 
 ## Integrante 1
 ### Cambio en el codigo y terminal
-![Evidencia Lider](evidencias/funca2png.png)
+![Evidencia Lider](Evidencias/funca2png.png)
 
 ### Merge
-![Evidencia Lider](evidencias/funca22.png)
+![Evidencia Lider](Evidencias/funca22.png)
 
 ## Integrante 2
 ### Cambio en el codigo y terminal
-![Evidencia Lider](evidencias/cambio.jpeg)
+![Evidencia Lider](Evidencias/cambio.jpeg)
 
 ### Merge
-![Evidencia Lider](evidencias/merge.jpeg)
+![Evidencia Lider](Evidencias/merge.jpeg)
