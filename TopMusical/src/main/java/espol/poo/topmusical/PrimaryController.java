@@ -59,6 +59,7 @@ public class PrimaryController {
 
     private void mostrarHistorial(Cancion c) {
         lblTitulo.setText("Top 10 de las Mejores Canciones");
+        lblTitulo.setText(c.getTitulo());
 
         try {
             Image img = new Image(new FileInputStream("img/" + c.getImagen()), 100, 100, true, true);
